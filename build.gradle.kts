@@ -16,9 +16,9 @@ repositories {
     maven("https://repo.opencollab.dev/maven-snapshots/")
 }
 
-group = "com.acktar.bedwars"
+group = "com.acktar.customrankjoinmessages"
 version = "1.0.0-SNAPSHOT"
-description = "Bedwars plugin"
+description = "Shows join messages according to rank!"
 java.sourceCompatibility = JavaVersion.VERSION_21
 
 dependencies {
