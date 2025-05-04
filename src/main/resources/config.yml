@@ -1,0 +1,19 @@
+# Toggle options to enable/disable message modification
+ModifyJoinMessages: true
+ModifyLeaveMessages: true
+
+# Custom join messages for each group
+joinMessages:
+  owner: "§l§7[§a+§7] [§cOwner§7] {name}"
+  developer: "§l§7[§a+§7] [§bDeveloper§7] {name}"
+  moderator: "§l§7[§a+§7] [§9Moderator§7] {name}"
+  vip++:  "§l§7[§a+§7] [§eVIP++§7] {name}"
+  default: "§l§7[§a+§7] {name}"
+
+# Custom leave messages for each group
+leaveMessages:
+  owner: "§l§7[§c-§7] [§cOwner§7] {name}"
+  developer: "§l§7[§c-§7] [§bDeveloper§7] {name}"
+  moderator: "§l§7[§c-§7] [§dModerator§7] {name}"
+  vip++:  "§l§7[§c-§7] [§eVIP++§7] {name}"
+  default: "§l§7[§c-§7] {name}"
