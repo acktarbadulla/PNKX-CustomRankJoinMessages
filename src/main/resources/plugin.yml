@@ -1,0 +1,6 @@
+name: CustomRankJoinMessages
+version: 1.0.0
+main: com.acktar.customrankjoinmessages.Loader
+api: ["2.0.0"]
+author: ACKTAR
+description: configurable join and leave messages as per rank
